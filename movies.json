@@ -1,0 +1,1137 @@
+ 
+ 
+ [
+  {
+    "id": 1,
+    "name": "Money Heist s1",
+    "details": "A criminal mastermind and his team plan and execute a major heist.",
+    "actors": ["Úrsula Corberó", "Álvaro Morte", "Pedro Alonso"],
+    "release_date": "2017-05-02",
+    "story": "A criminal mastermind, known as The Professor, plans the biggest heist in history: to print billions of euros in the Royal Mint of Spain.",
+    
+    "language": "Spanish",
+    "category": "Web Series",
+    "main_image": "https://m.media-amazon.com/images/M/MV5BYmVjODRhNDAtZDU1Ni00ODc3LWIzNjMtODM5MTEwODJmMDExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Download": "https://linkmake.in/view/HjSWGDNdFA"
+  },
+    {
+      "id": 2,
+      "name": "Inception",
+      "details": "A mind-bending sci-fi thriller directed by Christopher Nolan.",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "release_date": "2010-07-16",
+      "story": "A skilled thief, who steals secrets through dream-sharing technology, is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "screenshot_image": "https://example.com/inception.jpg",
+      "language": "English",
+      "category": "Hollywood",
+      "main_image": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "details": "A family drama revolving around relationships and emotional struggles.",
+      "actors": ["Shah Rukh Khan", "Amitabh Bachchan", "Kajol"],
+      "release_date": "2001-12-14",
+      "story": "The story revolves around the complex relationships within a wealthy family.",
+      "screenshot_image": "https://example.com/kkkg.jpg",
+      "language": "Hindi",
+      "category": "Bollywood",
+      "main_image": ""
+    },
+    {
+      "id": 4,
+      "name": "Stranger Things",
+      "details": "A thrilling, supernatural web series set in the 1980s.",
+      "actors": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "release_date": "2016-07-15",
+      "story": "A group of kids in the small town of Hawkins, Indiana, uncover a secret government experiment involving supernatural forces.",
+      "screenshot_image": "https://example.com/strangerthings.jpg",
+      "language": "English",
+      "category": "Web Series",
+      "main_image": ""
+    },
+    {
+      "id": 5,
+      "name": "The Dark Knight",
+      "details": "A superhero film directed by Christopher Nolan, the sequel to Batman Begins.",
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "release_date": "2008-07-18",
+      "story": "Batman faces his greatest challenge yet as he tries to stop the Joker, a criminal mastermind bent on creating chaos.",
+      "screenshot_image": "https://example.com/darkknight.jpg",
+      "language": "English",
+      "category": "Hollywood",
+      "main_image": ""
+    },
+    {
+      "id": 6,
+      "name": "Dangal",
+      "details": "The inspiring story of a father who trains his daughters to become wrestlers.",
+      "actors": ["Aamir Khan", "Fatima Sana Shaikh", "Sanya Malhotra"],
+      "release_date": "2016-12-23",
+      "story": "A former wrestler trains his daughters to be champions in the male-dominated sport of wrestling.",
+      "screenshot_image": "",
+      "language": "Hindi",
+      "category": "Bollywood",
+      "main_image": "https://www.imdb.com/title/tt5074352/mediaviewer/rm3039822848/?ref_=tt_ov_i"
+    },
+    {
+      "id": 7,
+      "name": "Breaking Bad",
+      "details": "A high school chemistry teacher turned methamphetamine producer fights for survival.",
+      "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+      "release_date": "2008-01-20",
+      "story": "A high school teacher with terminal cancer turns to cooking meth to provide for his family, plunging into a world of crime.",
+      "screenshot_image": "https://example.com/breakingbad.jpg",
+      "language": "English",
+      "category": "Web Series",
+      "main_image": "https://example.com/breakingbad-main.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Avengers",
+      "details": "A team of superheroes is assembled to stop an alien invasion.",
+      "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Scarlett Johansson"],
+      "release_date": "2012-05-04",
+      "story": "The Avengers must work together to stop Loki, an alien god, from enslaving humanity.",
+      "screenshot_image": "https://example.com/avengers.jpg",
+      "language": "English",
+      "category": "Hollywood",
+      "main_image": "https://example.com/avengers-main.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Matrix",
+      "details": "A computer hacker learns about the true nature of reality.",
+      "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "release_date": "1999-03-31",
+      "story": "A hacker discovers that the world he lives in is a simulation created by machines to control humans.",
+      "screenshot_image": "https://example.com/matrix.jpg",
+      "language": "English",
+      "category": "Hollywood",
+      "main_image": "https://example.com/matrix-main.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sholay",
+      "details": "A classic Bollywood action-adventure film.",
+      "actors": ["Amitabh Bachchan", "Dharmendra", "Hema Malini"],
+      "release_date": "1975-08-15",
+      "story": "Two criminals are hired to capture a ruthless bandit leader who has been terrorizing a small village.",
+      "screenshot_image": "https://example.com/sholay.jpg",
+      "language": "Hindi",
+      "category": "Bollywood",
+      "main_image": "https://example.com/sholay-main.jpg"
+    },
+
+
+
+
+
+
+
+
+
+
+    
+      {
+        "id": 11,
+        "name": "Interstellar",
+        "details": "A science fiction epic about space exploration and survival.",
+        "actors": [
+          "Matthew McConaughey",
+          "Anne Hathaway",
+          "Jessica Chastain"
+        ],
+        "release_date": "2014-11-07",
+        "story": "A group of astronauts travel through a wormhole in search of a new habitable planet.",
+        "screenshot_image": "https://example.com/interstellar.jpg",
+        "language": "English",
+        "category": "Hollywood",
+        "main_image": "https://example.com/interstellar-main.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Parasite",
+        "details": "A gripping tale of class struggle and deception.",
+        "actors": [
+          "Song Kang-ho",
+          "Choi Woo-shik",
+          "Park So-dam"
+        ],
+        "release_date": "2019-05-30",
+        "story": "A poor family schemes their way into a wealthy household with unexpected consequences.",
+        "screenshot_image": "https://example.com/parasite.jpg",
+        "language": "Korean",
+        "category": "World Cinema",
+        "main_image": "https://example.com/parasite-main.jpg"
+      },
+      {
+        "id": 13,
+        "name": "3 Idiots",
+        "details": "A Bollywood comedy-drama about the pressures of academic life.",
+        "actors": [
+          "Aamir Khan",
+          "R. Madhavan",
+          "Sharman Joshi"
+        ],
+        "release_date": "2009-12-25",
+        "story": "Three friends navigate through the challenges of engineering college and find meaning in life.",
+        "screenshot_image": "https://example.com/3idiots.jpg",
+        "language": "Hindi",
+        "category": "Bollywood",
+        "main_image": "https://example.com/3idiots-main.jpg"
+      },
+      {
+        "id": 14,
+        "name": "The Witcher",
+        "details": "A fantasy drama based on the books by Andrzej Sapkowski.",
+        "actors": [
+          "Henry Cavill",
+          "Anya Chalotra",
+          "Freya Allan"
+        ],
+        "release_date": "2019-12-20",
+        "story": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people are often more wicked than beasts.",
+        "screenshot_image": "https://example.com/witcher.jpg",
+        "language": "English",
+        "category": "Web Series",
+        "main_image": "https://example.com/witcher-main.jpg"
+      },
+      {
+        "id": 15,
+        "name": "RRR",
+        "details": "A fictional historical drama from Indian cinema.",
+        "actors": [
+          "N.T. Rama Rao Jr.",
+          "Ram Charan",
+          "Alia Bhatt"
+        ],
+        "release_date": "2022-03-25",
+        "story": "Two revolutionaries fight against British colonial rule in India.",
+        "screenshot_image": "https://example.com/rrr.jpg",
+        "language": "Telugu",
+        "category": "Bollywood",
+        "main_image": "https://example.com/rrr-main.jpg"
+      },
+      {
+        "id": 16,
+        "name": "The Crown",
+        "details": "A historical drama about the reign of Queen Elizabeth II.",
+        "actors": [
+          "Claire Foy",
+          "Olivia Colman",
+          "Matt Smith"
+        ],
+        "release_date": "2016-11-04",
+        "story": "A portrayal of the life and reign of Queen Elizabeth II and the political events that shaped her era.",
+        "screenshot_image": "https://example.com/thecrown.jpg",
+        "language": "English",
+        "category": "Web Series",
+        "main_image": "https://example.com/thecrown-main.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Joker",
+        "details": "A psychological thriller exploring the origin of the iconic villain.",
+        "actors": [
+          "Joaquin Phoenix",
+          "Robert De Niro",
+          "Zazie Beetz"
+        ],
+        "release_date": "2019-10-04",
+        "story": "The descent of Arthur Fleck into the Joker, Gotham's most feared villain.",
+        "screenshot_image": "https://example.com/joker.jpg",
+        "language": "English",
+        "category": "Hollywood",
+        "main_image": "https://example.com/joker-main.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Tenet",
+        "details": "A mind-twisting action thriller by Christopher Nolan.",
+        "actors": [
+          "John David Washington",
+          "Robert Pattinson",
+          "Elizabeth Debicki"
+        ],
+        "release_date": "2020-09-03",
+        "story": "A secret agent manipulates time to prevent World War III.",
+        "screenshot_image": "https://example.com/tenet.jpg",
+        "language": "English",
+        "category": "Hollywood",
+        "main_image": "https://example.com/tenet-main.jpg"
+      },
+      {
+        "id": 19,
+        "name": "The White Tiger",
+        "details": "A story of ambition and class struggle in India.",
+        "actors": [
+          "Adarsh Gourav",
+          "Priyanka Chopra Jonas",
+          "Rajkummar Rao"
+        ],
+        "release_date": "2021-01-22",
+        "story": "An ambitious driver rises through the class hierarchy in modern India.",
+        "screenshot_image": "https://example.com/whitetiger.jpg",
+        "language": "Hindi",
+        "category": "Bollywood",
+        "main_image": "https://example.com/whitetiger-main.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Lupin",
+        "details": "A French heist drama inspired by Arsène Lupin.",
+        "actors": [
+          "Omar Sy",
+          "Ludivine Sagnier",
+          "Clotilde Hesme"
+        ],
+        "release_date": "2021-01-08",
+        "story": "A master thief sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "screenshot_image": "https://example.com/lupin.jpg",
+        "language": "French",
+        "category": "Web Series",
+        "main_image": "https://example.com/lupin-main.jpg"
+      },
+    
+      
+        {
+          "id": 21,
+          "name": "The Grand Budapest Hotel",
+          "details": "A comedy-drama about the adventures of a legendary concierge.",
+          "actors": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"],
+          "release_date": "2014-03-28",
+          "story": "The escapades of Gustave H, a concierge at a famous European hotel, and his young protégé.",
+          "screenshot_image": "https://example.com/grandbudapest.jpg",
+          "language": "English",
+          "category": "Hollywood",
+          "main_image": "https://example.com/grandbudapest-main.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Parasite",
+          "details": "A dark comedy thriller about class disparity.",
+          "actors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+          "release_date": "2019-05-30",
+          "story": "A poor family schemes to infiltrate a wealthy household.",
+          "screenshot_image": "https://example.com/parasite.jpg",
+          "language": "Korean",
+          "category": "International",
+          "main_image": "https://example.com/parasite-main.jpg"
+        },
+        {
+          "id": 23,
+          "name": "The Lion King",
+          "details": "An animated classic about a young lion reclaiming his kingdom.",
+          "actors": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
+          "release_date": "1994-06-15",
+          "story": "A lion cub named Simba grows up to avenge his father's death and reclaim his throne.",
+          "screenshot_image": "https://example.com/lionking.jpg",
+          "language": "English",
+          "category": "Animation",
+          "main_image": "https://example.com/lionking-main.jpg"
+        },
+        {
+          "id": 24,
+          "name": "3 Idiots",
+          "details": "A comedy-drama about friendship and the pressures of the education system.",
+          "actors": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+          "release_date": "2009-12-25",
+          "story": "Three friends navigate through college life and challenge societal norms.",
+          "screenshot_image": "https://example.com/3idiots.jpg",
+          "language": "Hindi",
+          "category": "Bollywood",
+          "main_image": "https://example.com/3idiots-main.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Coco",
+          "details": "A heartwarming story about family and music.",
+          "actors": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"],
+          "release_date": "2017-11-22",
+          "story": "A young boy embarks on a journey in the Land of the Dead to uncover his family's history.",
+          "screenshot_image": "https://example.com/coco.jpg",
+          "language": "English",
+          "category": "Animation",
+          "main_image": "https://example.com/coco-main.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Interstellar",
+          "details": "A sci-fi epic about space exploration and survival.",
+          "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+          "release_date": "2014-11-07",
+          "story": "A team of astronauts travels through a wormhole to find a new home for humanity.",
+          "screenshot_image": "https://example.com/interstellar.jpg",
+          "language": "English",
+          "category": "Hollywood",
+          "main_image": "https://example.com/interstellar-main.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Narcos",
+          "details": "A gritty drama about the rise and fall of the drug cartels.",
+          "actors": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook"],
+          "release_date": "2015-08-28",
+          "story": "The rise and fall of the notorious drug lord Pablo Escobar.",
+          "screenshot_image": "https://example.com/narcos.jpg",
+          "language": "Spanish",
+          "category": "Web Series",
+          "main_image": "https://example.com/narcos-main.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Joker",
+          "details": "An origin story of one of the most iconic villains.",
+          "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+          "release_date": "2019-10-04",
+          "story": "A man with a mental illness descends into madness and becomes the Joker.",
+          "screenshot_image": "https://example.com/joker.jpg",
+          "language": "English",
+          "category": "Hollywood",
+          "main_image": "https://example.com/joker-main.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Queen",
+          "details": "A story of self-discovery and independence.",
+          "actors": ["Kangana Ranaut", "Rajkummar Rao", "Lisa Haydon"],
+          "release_date": "2014-03-07",
+          "story": "A young woman goes on her honeymoon alone after her fiancé cancels their wedding.",
+          "screenshot_image": "https://example.com/queen.jpg",
+          "language": "Hindi",
+          "category": "Bollywood",
+          "main_image": "https://example.com/queen-main.jpg"
+        },
+        {
+          "id": 30,
+          "name": "The Witcher",
+          "details": "A dark fantasy web series based on the book series by Andrzej Sapkowski.",
+          "actors": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+          "release_date": "2019-12-20",
+          "story": "The adventures of Geralt of Rivia, a monster hunter in a world of political intrigue and magic.",
+          "screenshot_image": "https://example.com/witcher.jpg",
+          "language": "English",
+          "category": "Web Series",
+          "main_image": "https://example.com/witcher-main.jpg"
+        },
+
+        
+          {
+            "id": 31,
+            "name": "The Pursuit of Happyness",
+            "details": "An inspirational biographical drama based on a true story.",
+            "actors": ["Will Smith", "Jaden Smith", "Thandiwe Newton"],
+            "release_date": "2006-12-15",
+            "story": "A struggling salesman takes custody of his son as he embarks on a life-changing professional journey.",
+            "screenshot_image": "https://example.com/pursuitofhappyness.jpg",
+            "language": "English",
+            "category": "Hollywood",
+            "main_image": "https://example.com/pursuitofhappyness-main.jpg"
+          },
+          {
+            "id": 32,
+            "name": "Sacred Games",
+            "details": "A gripping Indian crime thriller web series.",
+            "actors": ["Saif Ali Khan", "Nawazuddin Siddiqui", "Radhika Apte"],
+            "release_date": "2018-07-06",
+            "story": "A police officer uncovers a chilling conspiracy as he investigates a crime lord's warning of doom.",
+            "screenshot_image": "https://example.com/sacredgames.jpg",
+            "language": "Hindi",
+            "category": "Web Series",
+            "main_image": "https://example.com/sacredgames-main.jpg"
+          },
+          {
+            "id": 33,
+            "name": "Black Panther",
+            "details": "A Marvel superhero film about Wakanda's king and protector.",
+            "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+            "release_date": "2018-02-16",
+            "story": "T'Challa returns to Wakanda to take the throne but faces challenges from an unexpected enemy.",
+            "screenshot_image": "https://example.com/blackpanther.jpg",
+            "language": "English",
+            "category": "Hollywood",
+            "main_image": "https://example.com/blackpanther-main.jpg"
+          },
+          {
+            "id": 34,
+            "name": "Lagaan",
+            "details": "A historical sports drama set in colonial India.",
+            "actors": ["Aamir Khan", "Gracy Singh", "Rachel Shelley"],
+            "release_date": "2001-06-15",
+            "story": "Villagers challenge British officers to a cricket match to waive oppressive taxes.",
+            "screenshot_image": "https://example.com/lagaan.jpg",
+            "language": "Hindi",
+            "category": "Bollywood",
+            "main_image": "https://example.com/lagaan-main.jpg"
+          },
+          {
+            "id": 35,
+            "name": "The Crown",
+            "details": "A drama series chronicling the reign of Queen Elizabeth II.",
+            "actors": ["Claire Foy", "Olivia Colman", "Matt Smith"],
+            "release_date": "2016-11-04",
+            "story": "The political and personal struggles faced by Queen Elizabeth II and the British monarchy.",
+            "screenshot_image": "https://example.com/thecrown.jpg",
+            "language": "English",
+            "category": "Web Series",
+            "main_image": "https://example.com/thecrown-main.jpg"
+          },
+          {
+            "id": 36,
+            "name": "The Shawshank Redemption",
+            "details": "A powerful story of hope and friendship.",
+            "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+            "release_date": "1994-09-22",
+            "story": "Two imprisoned men bond over years, finding solace and redemption.",
+            "screenshot_image": "https://example.com/shawshankredemption.jpg",
+            "language": "English",
+            "category": "Hollywood",
+            "main_image": "https://example.com/shawshankredemption-main.jpg"
+          },
+          {
+            "id": 37,
+            "name": "Baahubali: The Beginning",
+            "details": "A grand Indian epic about a royal family's struggle for power.",
+            "actors": ["Prabhas", "Rana Daggubati", "Anushka Shetty"],
+            "release_date": "2015-07-10",
+            "story": "A young man learns about his royal lineage and sets out to claim his rightful place.",
+            "screenshot_image": "https://example.com/baahubali.jpg",
+            "language": "Telugu",
+            "category": "Bollywood",
+            "main_image": "https://example.com/baahubali-main.jpg"
+          },
+          {
+            "id": 38,
+            "name": "Friends",
+            "details": "A sitcom about the lives of six friends in New York City.",
+            "actors": ["Jennifer Aniston", "Courteney Cox", "Matthew Perry"],
+            "release_date": "1994-09-22",
+            "story": "Follow the hilarious and heartwarming adventures of six friends navigating life, love, and friendship.",
+            "screenshot_image": "https://example.com/friends.jpg",
+            "language": "English",
+            "category": "Web Series",
+            "main_image": "https://example.com/friends-main.jpg"
+          },
+          {
+            "id": 39,
+            "name": "Kung Fu Panda",
+            "details": "An animated adventure of a clumsy panda destined for greatness.",
+            "actors": ["Jack Black", "Dustin Hoffman", "Angelina Jolie"],
+            "release_date": "2008-06-06",
+            "story": "Po, a kung fu enthusiast, unexpectedly becomes the Dragon Warrior and must save his village.",
+            "screenshot_image": "https://example.com/kungfupanda.jpg",
+            "language": "English",
+            "category": "Animation",
+            "main_image": "https://example.com/kungfupanda-main.jpg"
+          },
+          {
+            "id": 40,
+            "name": "Piku",
+            "details": "A comedy-drama about family and the father-daughter relationship.",
+            "actors": ["Amitabh Bachchan", "Deepika Padukone", "Irrfan Khan"],
+            "release_date": "2015-05-08",
+            "story": "A quirky road trip brings a father and daughter closer as they navigate their differences.",
+            "screenshot_image": "https://example.com/piku.jpg",
+            "language": "Hindi",
+            "category": "Bollywood",
+            "main_image": "https://example.com/piku-main.jpg"
+          },
+
+
+          
+            {
+              "id": 41,
+              "name": "The Grand Budapest Hotel",
+              "details": "A quirky comedy-drama about a hotel concierge and a priceless painting.",
+              "actors": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"],
+              "release_date": "2014-03-28",
+              "story": "A concierge teams up with his trusted lobby boy to prove his innocence in a murder case and recover a priceless painting.",
+              "screenshot_image": "https://example.com/grandbudapest.jpg",
+              "language": "English",
+              "category": "Hollywood",
+              "main_image": "https://example.com/grandbudapest-main.jpg"
+            },
+            {
+              "id": 42,
+              "name": "Ludo",
+              "details": "An Indian dark comedy anthology exploring intersecting lives.",
+              "actors": ["Abhishek Bachchan", "Rajkummar Rao", "Pankaj Tripathi"],
+              "release_date": "2020-11-12",
+              "story": "The lives of four individuals collide through a series of unexpected events, revealing fate and karma's role in their lives.",
+              "screenshot_image": "https://example.com/ludo.jpg",
+              "language": "Hindi",
+              "category": "Bollywood",
+              "main_image": "https://example.com/ludo-main.jpg"
+            },
+            {
+              "id": 43,
+              "name": "Narcos",
+              "details": "A crime drama series exploring the rise of drug cartels in Colombia.",
+              "actors": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook"],
+              "release_date": "2015-08-28",
+              "story": "The story of Pablo Escobar and the Medellín Cartel's influence in Colombia and the world.",
+              "screenshot_image": "https://example.com/narcos.jpg",
+              "language": "Spanish",
+              "category": "Web Series",
+              "main_image": "https://example.com/narcos-main.jpg"
+            },
+            {
+              "id": 44,
+              "name": "Mad Max: Fury Road",
+              "details": "A high-octane action thriller set in a post-apocalyptic wasteland.",
+              "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+              "release_date": "2015-05-15",
+              "story": "In a desert wasteland, a woman rebels against a tyrannical warlord with the help of a drifter named Max.",
+              "screenshot_image": "https://example.com/madmax.jpg",
+              "language": "English",
+              "category": "Hollywood",
+              "main_image": "https://example.com/madmax-main.jpg"
+            },
+            {
+              "id": 45,
+              "name": "Dil Chahta Hai",
+              "details": "A coming-of-age story of three friends navigating life, love, and friendship.",
+              "actors": ["Aamir Khan", "Saif Ali Khan", "Akshaye Khanna"],
+              "release_date": "2001-08-10",
+              "story": "The bond between three childhood friends is tested as they grow up and face life's challenges.",
+              "screenshot_image": "https://example.com/dilchahtahai.jpg",
+              "language": "Hindi",
+              "category": "Bollywood",
+              "main_image": "https://example.com/dilchahtahai-main.jpg"
+            },
+            {
+              "id": 46,
+              "name": "Black Mirror",
+              "details": "A dystopian anthology series exploring the dark side of technology.",
+              "actors": ["Bryce Dallas Howard", "Jon Hamm", "Daniel Kaluuya"],
+              "release_date": "2011-12-04",
+              "story": "Each episode tells a unique story about how advanced technology impacts society in unforeseen ways.",
+              "screenshot_image": "https://example.com/blackmirror.jpg",
+              "language": "English",
+              "category": "Web Series",
+              "main_image": "https://example.com/blackmirror-main.jpg"
+            },
+            {
+              "id": 47,
+              "name": "Bajirao Mastani",
+              "details": "A historical epic about the love story of a warrior and a princess.",
+              "actors": ["Ranveer Singh", "Deepika Padukone", "Priyanka Chopra"],
+              "release_date": "2015-12-18",
+              "story": "The story of Bajirao, a Maratha warrior, and his love for Mastani amidst political and familial opposition.",
+              "screenshot_image": "https://example.com/bajirao.jpg",
+              "language": "Hindi",
+              "category": "Bollywood",
+              "main_image": "https://example.com/bajirao-main.jpg"
+            },
+            {
+              "id": 48,
+              "name": "The Witcher",
+              "details": "A fantasy series following the adventures of Geralt of Rivia, a monster hunter.",
+              "actors": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+              "release_date": "2019-12-20",
+              "story": "Geralt, a mutated monster hunter, struggles to find his place in a world where humans can be more wicked than beasts.",
+              "screenshot_image": "https://example.com/witcher.jpg",
+              "language": "English",
+              "category": "Web Series",
+              "main_image": "https://example.com/witcher-main.jpg"
+            },
+            {
+              "id": 49,
+              "name": "Raazi",
+              "details": "A gripping spy thriller based on a true story.",
+              "actors": ["Alia Bhatt", "Vicky Kaushal", "Rajit Kapur"],
+              "release_date": "2018-05-11",
+              "story": "A young Indian woman marries a Pakistani officer to act as a spy for her country during wartime.",
+              "screenshot_image": "https://example.com/raazi.jpg",
+              "language": "Hindi",
+              "category": "Bollywood",
+              "main_image": "https://example.com/raazi-main.jpg"
+            },
+            {
+              "id": 50,
+              "name": "Chernobyl",
+              "details": "A dramatization of the 1986 nuclear disaster and its aftermath.",
+              "actors": ["Jared Harris", "Stellan Skarsgård", "Emily Watson"],
+              "release_date": "2019-05-06",
+              "story": "The story of the people who sacrificed their lives to save Europe from an unthinkable catastrophe.",
+              "screenshot_image": "https://example.com/chernobyl.jpg",
+              "language": "English",
+              "category": "Web Series",
+              "main_image": "https://example.com/chernobyl-main.jpg"
+            },
+
+
+            
+              {
+                "id": 51,
+                "name": "Swades",
+                "details": "A story of an NRI who returns to India to bring positive change.",
+                "actors": ["Shah Rukh Khan", "Gayatri Joshi", "Kishori Ballal"],
+                "release_date": "2004-12-17",
+                "story": "Mohan, a NASA scientist, returns to his homeland and works to bring electricity to a remote village.",
+                "screenshot_image": "https://example.com/swades.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/swades-main.jpg"
+              },
+              {
+                "id": 52,
+                "name": "Queen",
+                "details": "A young woman embarks on a solo honeymoon after her wedding is called off.",
+                "actors": ["Kangana Ranaut", "Rajkummar Rao", "Lisa Haydon"],
+                "release_date": "2014-03-07",
+                "story": "Rani, a shy Delhi girl, sets out on a journey of self-discovery in Paris and Amsterdam.",
+                "screenshot_image": "https://example.com/queen.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/queen-main.jpg"
+              },
+              {
+                "id": 53,
+                "name": "Barfi!",
+                "details": "A heartfelt tale of love and friendship involving a mute and deaf man.",
+                "actors": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
+                "release_date": "2012-09-14",
+                "story": "Barfi, a differently-abled man, finds himself in a love triangle while trying to reunite with his first love.",
+                "screenshot_image": "https://example.com/barfi.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/barfi-main.jpg"
+              },
+              {
+                "id": 54,
+                "name": "Sairat",
+                "details": "A love story that faces societal and caste barriers.",
+                "actors": ["Rinku Rajguru", "Akash Thosar", "Tanikella Bharani"],
+                "release_date": "2016-04-29",
+                "story": "The story of two star-crossed lovers from different castes who face violence and discrimination for their relationship.",
+                "screenshot_image": "https://example.com/sairat.jpg",
+                "language": "Marathi",
+                "category": "Regional",
+                "main_image": "https://example.com/sairat-main.jpg"
+              },
+              {
+                "id": 55,
+                "name": "Bahubali: The Beginning",
+                "details": "A historical epic about a young warrior discovering his destiny.",
+                "actors": ["Prabhas", "Rana Daggubati", "Anushka Shetty"],
+                "release_date": "2015-07-10",
+                "story": "A young man learns of his royal lineage and vows to overthrow an evil king to reclaim his kingdom.",
+                "screenshot_image": "https://example.com/bahubali.jpg",
+                "language": "Telugu",
+                "category": "Regional",
+                "main_image": "https://example.com/bahubali-main.jpg"
+              },
+              {
+                "id": 56,
+                "name": "Chhichhore",
+                "details": "A heartwarming story about college friendships and life lessons.",
+                "actors": ["Sushant Singh Rajput", "Shraddha Kapoor", "Varun Sharma"],
+                "release_date": "2019-09-06",
+                "story": "Anirudh reminisces about his college days to teach his son the value of failure and success.",
+                "screenshot_image": "https://example.com/chhichhore.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/chhichhore-main.jpg"
+              },
+              {
+                "id": 57,
+                "name": "Super 30",
+                "details": "The inspiring true story of a teacher who helps underprivileged students crack IIT.",
+                "actors": ["Hrithik Roshan", "Mrunal Thakur", "Pankaj Tripathi"],
+                "release_date": "2019-07-12",
+                "story": "Anand Kumar, a mathematician, dedicates his life to coaching 30 brilliant but poor students for India's toughest exam.",
+                "screenshot_image": "https://example.com/super30.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/super30-main.jpg"
+              },
+              {
+                "id": 58,
+                "name": "Eega",
+                "details": "A unique fantasy film about a man reincarnated as a fly to seek revenge.",
+                "actors": ["Sudeep", "Nani", "Samantha Ruth Prabhu"],
+                "release_date": "2012-07-06",
+                "story": "A murdered man is reincarnated as a fly and seeks vengeance against his killer while protecting the woman he loves.",
+                "screenshot_image": "https://example.com/eega.jpg",
+                "language": "Telugu",
+                "category": "Regional",
+                "main_image": "https://example.com/eega-main.jpg"
+              },
+              {
+                "id": 59,
+                "name": "Tumbbad",
+                "details": "A dark fantasy exploring greed and mythology in rural India.",
+                "actors": ["Sohum Shah", "Jyoti Malshe", "Anita Date"],
+                "release_date": "2018-10-12",
+                "story": "In search of a hidden treasure, a man confronts the cursed legacy of a mythical goddess.",
+                "screenshot_image": "https://example.com/tumbbad.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/tumbbad-main.jpg"
+              },
+              {
+                "id": 60,
+                "name": "Gully Boy",
+                "details": "A coming-of-age story of a street rapper from the slums of Mumbai.",
+                "actors": ["Ranveer Singh", "Alia Bhatt", "Siddhant Chaturvedi"],
+                "release_date": "2019-02-14",
+                "story": "Murad, a young rapper, rises from the streets to become the voice of the underprivileged.",
+                "screenshot_image": "https://example.com/gullyboy.jpg",
+                "language": "Hindi",
+                "category": "Bollywood",
+                "main_image": "https://example.com/gullyboy-main.jpg"
+              },
+
+              
+                {
+                  "id": 61,
+                  "name": "Drishyam",
+                  "details": "A gripping thriller about a man's efforts to protect his family.",
+                  "actors": ["Ajay Devgn", "Tabu", "Shriya Saran"],
+                  "release_date": "2015-07-31",
+                  "story": "Vijay Salgaonkar uses his wit and intelligence to shield his family from the law after they become involved in a crime.",
+                  "screenshot_image": "https://example.com/drishyam.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/drishyam-main.jpg"
+                },
+                {
+                  "id": 62,
+                  "name": "KGF: Chapter 1",
+                  "details": "The journey of a young man to power in the gold mining fields of Kolar.",
+                  "actors": ["Yash", "Srinidhi Shetty", "Ramachandra Raju"],
+                  "release_date": "2018-12-21",
+                  "story": "Rocky rises from the streets of Mumbai to become a feared name in the Kolar Gold Fields.",
+                  "screenshot_image": "https://example.com/kgf1.jpg",
+                  "language": "Kannada",
+                  "category": "Regional",
+                  "main_image": "https://example.com/kgf1-main.jpg"
+                },
+                {
+                  "id": 63,
+                  "name": "Article 15",
+                  "details": "A socially conscious thriller based on real-life caste discrimination cases.",
+                  "actors": ["Ayushmann Khurrana", "Isha Talwar", "Manoj Pahwa"],
+                  "release_date": "2019-06-28",
+                  "story": "A young IPS officer investigates a case of caste-based violence in rural India, uncovering the harsh realities of systemic oppression.",
+                  "screenshot_image": "https://example.com/article15.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/article15-main.jpg"
+                },
+                {
+                  "id": 64,
+                  "name": "Pink",
+                  "details": "A courtroom drama addressing the importance of consent and women's rights.",
+                  "actors": ["Amitabh Bachchan", "Taapsee Pannu", "Kirti Kulhari"],
+                  "release_date": "2016-09-16",
+                  "story": "Three women seek justice with the help of a retired lawyer after being harassed and accused of a crime.",
+                  "screenshot_image": "https://example.com/pink.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/pink-main.jpg"
+                },
+                {
+                  "id": 65,
+                  "name": "3 Idiots",
+                  "details": "A heartwarming comedy about friendship and the flaws of the education system.",
+                  "actors": ["Aamir Khan", "R. Madhavan", "Sharman Joshi"],
+                  "release_date": "2009-12-25",
+                  "story": "Three friends navigate the pressures of college life while challenging the traditional ideas of success.",
+                  "screenshot_image": "https://example.com/3idiots.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/3idiots-main.jpg"
+                },
+                {
+                  "id": 66,
+                  "name": "Andhadhun",
+                  "details": "A dark comedy thriller about a blind pianist caught in a murder mystery.",
+                  "actors": ["Ayushmann Khurrana", "Tabu", "Radhika Apte"],
+                  "release_date": "2018-10-05",
+                  "story": "A visually impaired musician becomes entangled in a murder, revealing hidden truths and unexpected twists.",
+                  "screenshot_image": "https://example.com/andhadhun.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/andhadhun-main.jpg"
+                },
+                {
+                  "id": 67,
+                  "name": "Rangasthalam",
+                  "details": "A period drama about the struggles of a hearing-impaired man in a rural village.",
+                  "actors": ["Ram Charan", "Samantha Ruth Prabhu", "Aadhi Pinisetty"],
+                  "release_date": "2018-03-30",
+                  "story": "Chitti Babu, a partially deaf man, fights against a corrupt system to bring justice to his village.",
+                  "screenshot_image": "https://example.com/rangasthalam.jpg",
+                  "language": "Telugu",
+                  "category": "Regional",
+                  "main_image": "https://example.com/rangasthalam-main.jpg"
+                },
+                {
+                  "id": 68,
+                  "name": "Padman",
+                  "details": "The inspiring story of a man who revolutionized menstrual hygiene in rural India.",
+                  "actors": ["Akshay Kumar", "Radhika Apte", "Sonam Kapoor"],
+                  "release_date": "2018-02-09",
+                  "story": "Lakshmi's innovation in making affordable sanitary pads transforms the lives of women in his village.",
+                  "screenshot_image": "https://example.com/padman.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/padman-main.jpg"
+                },
+                {
+                  "id": 69,
+                  "name": "Udaan",
+                  "details": "A coming-of-age drama about a teenager pursuing his dreams against all odds.",
+                  "actors": ["Rajat Barmecha", "Ronit Roy", "Ram Kapoor"],
+                  "release_date": "2010-07-16",
+                  "story": "Rohan, expelled from boarding school, returns home to a controlling father and finds solace in writing and dreams of freedom.",
+                  "screenshot_image": "https://example.com/udaan.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/udaan-main.jpg"
+                },
+                {
+                  "id": 70,
+                  "name": "Bajrangi Bhaijaan",
+                  "details": "The story of a man's journey to reunite a lost Pakistani girl with her family.",
+                  "actors": ["Salman Khan", "Harshaali Malhotra", "Nawazuddin Siddiqui"],
+                  "release_date": "2015-07-17",
+                  "story": "Pawan Kumar Chaturvedi, a kind-hearted man, embarks on a mission to take a mute Pakistani girl back to her homeland.",
+                  "screenshot_image": "https://example.com/bajrangibhaijaan.jpg",
+                  "language": "Hindi",
+                  "category": "Bollywood",
+                  "main_image": "https://example.com/bajrangibhaijaan-main.jpg"
+                },
+
+                
+                  {
+                    "id": 71,
+                    "name": "Tumbbad",
+                    "details": "A visually stunning horror-fantasy exploring greed and mythology.",
+                    "actors": ["Sohum Shah", "Mohammad Samad", "Jyoti Malshe"],
+                    "release_date": "2018-10-12",
+                    "story": "A man’s obsession with a hidden treasure leads him to the cursed village of Tumbbad.",
+                    "screenshot_image": "https://example.com/tumbbad.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/tumbbad-main.jpg"
+                  },
+                  {
+                    "id": 72,
+                    "name": "Super 30",
+                    "details": "The inspiring story of a teacher who revolutionized education for underprivileged kids.",
+                    "actors": ["Hrithik Roshan", "Mrunal Thakur", "Pankaj Tripathi"],
+                    "release_date": "2019-07-12",
+                    "story": "Anand Kumar trains 30 underprivileged students for the highly competitive IIT entrance exams.",
+                    "screenshot_image": "https://example.com/super30.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/super30-main.jpg"
+                  },
+                  {
+                    "id": 73,
+                    "name": "Bahubali: The Beginning",
+                    "details": "An epic tale of love, betrayal, and a quest for power.",
+                    "actors": ["Prabhas", "Rana Daggubati", "Anushka Shetty"],
+                    "release_date": "2015-07-10",
+                    "story": "Shivudu learns about his royal heritage and sets out to reclaim the kingdom of Mahishmati.",
+                    "screenshot_image": "https://example.com/bahubali1.jpg",
+                    "language": "Telugu",
+                    "category": "Regional",
+                    "main_image": "https://example.com/bahubali1-main.jpg"
+                  },
+                  {
+                    "id": 74,
+                    "name": "Barfi!",
+                    "details": "A heartwarming romantic comedy-drama about love beyond barriers.",
+                    "actors": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
+                    "release_date": "2012-09-14",
+                    "story": "Barfi, a deaf and mute boy, navigates love and life with his unique charm.",
+                    "screenshot_image": "https://example.com/barfi.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/barfi-main.jpg"
+                  },
+                  {
+                    "id": 75,
+                    "name": "Lagaan",
+                    "details": "A period sports drama where villagers challenge British rulers to a cricket match.",
+                    "actors": ["Aamir Khan", "Gracy Singh", "Rachel Shelley"],
+                    "release_date": "2001-06-15",
+                    "story": "In colonial India, a group of villagers fight oppressive taxes by wagering everything on a cricket match against the British.",
+                    "screenshot_image": "https://example.com/lagaan.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/lagaan-main.jpg"
+                  },
+                  {
+                    "id": 76,
+                    "name": "Raazi",
+                    "details": "A gripping spy thriller based on a true story.",
+                    "actors": ["Alia Bhatt", "Vicky Kaushal", "Rajit Kapur"],
+                    "release_date": "2018-05-11",
+                    "story": "An Indian spy marries into a Pakistani family to gather crucial intelligence during the 1971 Indo-Pak war.",
+                    "screenshot_image": "https://example.com/raazi.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/raazi-main.jpg"
+                  },
+                  {
+                    "id": 77,
+                    "name": "Eega",
+                    "details": "A unique revenge drama with a reincarnated fly as the protagonist.",
+                    "actors": ["Nani", "Sudeep", "Samantha Ruth Prabhu"],
+                    "release_date": "2012-07-06",
+                    "story": "A man reincarnates as a fly to avenge his murder and protect his love.",
+                    "screenshot_image": "https://example.com/eega.jpg",
+                    "language": "Telugu",
+                    "category": "Regional",
+                    "main_image": "https://example.com/eega-main.jpg"
+                  },
+                  {
+                    "id": 78,
+                    "name": "Dil Chahta Hai",
+                    "details": "A coming-of-age film about three inseparable childhood friends.",
+                    "actors": ["Aamir Khan", "Saif Ali Khan", "Akshaye Khanna"],
+                    "release_date": "2001-08-10",
+                    "story": "Three friends navigate love, friendship, and life as they grow older and apart.",
+                    "screenshot_image": "https://example.com/dilchahtahai.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://www.imdb.com/title/tt14209618/mediaviewer/rm3505951490/?ref_=tt_ph_1"
+                  },
+                  {
+                    "id": 79,
+                    "name": "Queen",
+                    "details": "A story of self-discovery and empowerment.",
+                    "actors": ["Kangana Ranaut", "Rajkummar Rao", "Lisa Haydon"],
+                    "release_date": "2014-03-07",
+                    "story": "Rani embarks on a solo honeymoon trip to Europe after her wedding is called off, discovering her independence and self-worth.",
+                    "screenshot_image": "https://example.com/queen.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/queen-main.jpg"
+                  },
+                  {
+                    "id": 80,
+                    "name": "Piku",
+                    "details": "A quirky comedy-drama about a father-daughter relationship.",
+                    "actors": ["Deepika Padukone", "Amitabh Bachchan", "Irrfan Khan"],
+                    "release_date": "2015-05-08",
+                    "story": "A road trip involving a constipated father and his dutiful daughter leads to heartfelt revelations.",
+                    "screenshot_image": "https://example.com/piku.jpg",
+                    "language": "Hindi",
+                    "category": "Bollywood",
+                    "main_image": "https://example.com/piku-main.jpg"
+                  },
+
+
+                  
+                    {
+                      "id": 81,
+                      "name": "Elskovsbarnet",
+                      "details": "A romance film from 1914 directed by Einar Zangenberg.",
+                      "actors": ["Edith Buemann", "Anton De Verdier", "Elna From", "Ellen Rassow"],
+                      "release_date": "1914-01-01",
+                      "story": "Add a Plot",
+                      "screenshot_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ.",
+                      "language": "Silent",
+                      "category": "Movie",
+                      "main_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ."
+                    },
+                    {
+                      "id": 82,
+                      "name": "Forbandelsen",
+                      "details": "A drama film from 1914 directed by Edith Buemann.",
+                      "actors": ["Tronier Funder", "Ella La Cour", "Einar Zangenberg"],
+                      "release_date": "1914-01-01",
+                      "story": "Add a Plot",
+                      "screenshot_image": "https://m.media-amazon.com/images/M/MV5BODRiNWRlMDMtMjBmZi00MzlkLWIwNDYtNjI5M2YxOTk5YTg1XkEyXkFqcGdeQXVyMjI3MDczMjI@.",
+                      "language": "Silent",
+                      "category": "Movie",
+                      "main_image": "https://m.media-amazon.com/images/M/MV5BODRiNWRlMDMtMjBmZi00MzlkLWIwNDYtNjI5M2YxOTk5YTg1XkEyXkFqcGdeQXVyMjI3MDczMjI@."
+                    },
+                    {
+                      "id": 83,
+                      "name": "Jack's First Major",
+                      "details": "A 2012 documentary TV movie directed by George Roy.",
+                      "actors": [],
+                      "release_date": "2012-01-01",
+                      "story": "Add a Plot",
+                      "screenshot_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ.",
+                      "language": "English",
+                      "category": "TV Movie",
+                      "main_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ."
+                    },
+                    {
+                      "id": 84,
+                      "name": "Dirk Smirk, Secret Agent",
+                      "details": "A 2012 comedy film directed by Aaron L. Williams.",
+                      "actors": ["Taylor Glynn", "Alexandra Goel", "Isabella Goel", "Alayna Henry"],
+                      "release_date": "2012-01-01",
+                      "story": "The Agency is threatened when a terrorist organization devises an evil plot to control the world by capturing the Madame De Vascalles Sisters. Only Dirk Smirk and the impossibly beautiful Captain Tremaine can save the day.",
+                      "screenshot_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ.",
+                      "language": "English",
+                      "category": "Movie",
+                      "main_image": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ."
+                    },
+                    {
+                      "id": 85,
+                      "name": "Bristede Strenge",
+                      "details": "A romance film from 1913 directed by Edith Buemann.",
+                      "actors": ["Anton De Verdier", "Peter Kjær", "Einar Zangenberg"],
+                      "release_date": "1913-01-01",
+                      "story": "Add a Plot",
+                      "screenshot_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@.",
+                      "language": "Silent",
+                      "category": "Movie",
+                      "main_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@."
+                    },
+                    {
+                      "id": 86,
+                      "name": " Sanam Teri Kasam",
+                      "details": "Sanam Teri Kasam is a romantic tragedy displaying the pursuit of eternal love. The movie is based on a love story between Saru & Inder. Saru is a geek who is desperately looking for a husband due to her family's pressure for marriage. Saru meets Inder who changes her life and their love story blossoms. Watch Sanam Teri Kasam to see these two characters",
+                      "actors": [ "Divyetta Kaveri, Pyumori Mehta, Soodesh Berry"],
+                      "release_date": " 2025-02-06",
+                      "story": "Add a Plot",
+                      "screenshot_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@.",
+                      "language": "Hindi",
+                      "category": "Movie",
+                      "main_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@."
+                      
+                    }
+
+                  
+                  
+                
+                
+              
+              
+            
+            
+          
+          
+        
+        
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
