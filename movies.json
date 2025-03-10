@@ -165,22 +165,23 @@
         "category": "World Cinema",
         "main_image": "https://example.com/parasite-main.jpg"
       },
-      {
-        "id": 13,
-        "name": "3 Idiots",
-        "details": "A Bollywood comedy-drama about the pressures of academic life.",
-        "actors": [
-          "Aamir Khan",
-          "R. Madhavan",
-          "Sharman Joshi"
-        ],
-        "release_date": "2009-12-25",
-        "story": "Three friends navigate through the challenges of engineering college and find meaning in life.",
-        "screenshot_image": "https://example.com/3idiots.jpg",
-        "language": "Hindi",
-        "category": "Bollywood",
-        "main_image": "https://example.com/3idiots-main.jpg"
-      },
+     {
+    "id": 13,
+    "name": "3 Idiots",
+    "details": "A Bollywood comedy-drama about the pressures of academic life.",
+    "actors": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
+    ],
+    "release_date": "2009-12-25",
+    "story": "Three friends navigate through the challenges of engineering college and find meaning in life.",
+    "screenshot_image": "https://example.com/3idiots.jpg",
+    "language": "Hindi",
+    "category": "Bollywood",
+    "main_image": "https://m.media-amazon.com/images/M/MV5BNzM1ZDNkZGMtNmZiZS00ZDU5LTgxMWMtZTBhMGYyYzgwYmU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+     "Download" : "https://new1.filesdl.site/cloud/AxdL76a7sak8du3",
+},
       {
         "id": 14,
         "name": "The Witcher",
