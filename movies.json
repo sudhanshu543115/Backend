@@ -1086,10 +1086,10 @@
                       "actors": ["Anton De Verdier", "Peter Kjær", "Einar Zangenberg"],
                       "release_date": "1913-01-01",
                       "story": "Add a Plot",
-                      "screenshot_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@.",
+                      "screenshot_image": "",
                       "language": "Silent",
                       "category": "Movie",
-                      "main_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@."
+                      "main_image": ""
                     },
                     {
                       "id": 86,
@@ -1098,10 +1098,10 @@
                       "actors": [ "Divyetta Kaveri, Pyumori Mehta, Soodesh Berry"],
                       "release_date": " 2025-02-06",
                       "story": "Add a Plot",
-                      "screenshot_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@.",
+                      "screenshot_image": "",
                       "language": "Hindi",
                       "category": "Movie",
-                      "main_image": "https://m.media-amazon.com/images/M/MV5BOTBhNDY4M2ItZDYwMC00ZGUwLThmYTgtNGUzZTk4NTJiMzg3XkEyXkFqcGdeQXVyMjI3MDczMjI@."
+                      "main_image": ""
                       
                     },
                     {
@@ -1225,4 +1225,5 @@
 
 
   ]
+
 
