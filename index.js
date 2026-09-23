@@ -12,7 +12,7 @@ dotenv.config();
 
 
 app.use(cors({
-  origin: ["https://filmflixnow-liard.vercel.app"], 
+  origin: ["https://filmflixnow-liard.vercel.app""https://movie-site-chi-nine.vercel.app"], 
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
 }));
